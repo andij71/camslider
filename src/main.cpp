@@ -30,8 +30,6 @@ int picture_blynk;
 Slider slider;
 
 
-
-
 // --------- STOP ---------
 BLYNK_WRITE(V1) 
 {
